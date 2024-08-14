@@ -1,0 +1,52 @@
+:root {
+    --white: #ffffff;
+    --aquamarine: #7fffd4;
+    --grey: #808080;
+}
+
+html {
+    opacity: 0.9;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: var(--white);
+}
+
+.container {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+header .container p {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+header .container a {
+    color: var(--aquamarine);
+}
+
+.content .container #header {
+    font-size: 42px;
+    font-weight: normal;
+    color: var(--white);
+}
+
+.content .container p {
+    font-size: 21px;
+    color: var(--grey);
+}
+
+.content .container a {
+    color: var(--aquamarine);
+}
+
+footer p {
+    text-align: right;
+    color: var(--grey);
+}
