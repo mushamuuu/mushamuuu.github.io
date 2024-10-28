@@ -1,2 +1,2 @@
-# Excursion
-Excursion Project Codecademy
+#  Colmar Academy
+Colmar Academy website
